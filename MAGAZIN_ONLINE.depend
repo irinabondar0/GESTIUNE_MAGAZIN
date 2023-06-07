@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1685983098 source:d:\proiect poo\magazin_online\main.cpp
+	<iostream>
+	<fstream>
+	"producator.h"
+	"produs.h"
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1679843031 d:\proiect poo\magazin_online\magazin.h
+
+1685979598 d:\proiect poo\magazin_online\produs.h
+	<fstream>
+	<string.h>
+
+1685984973 source:d:\proiect poo\magazin_online\produs.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"produs.h"
+	"producator.h"
+	<windows.h>
+	<iomanip>
+	<stdio.h>
+
+1685977922 d:\proiect poo\magazin_online\producator.h
+	<fstream>
+	<string.h>
+
+1685974998 source:d:\proiect poo\magazin_online\producator.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"producator.h"
+	"produs.h"
+	<windows.h>
+	<iomanip>
+	<stdio.h>
+
+1685983098 source:c:\users\admin\onedrive\desktop\poo proiect\magazin_online\main.cpp
+	<iostream>
+	<fstream>
+	"producator.h"
+	"produs.h"
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1685977922 c:\users\admin\onedrive\desktop\poo proiect\magazin_online\producator.h
+	<fstream>
+	<string.h>
+
+1685979598 c:\users\admin\onedrive\desktop\poo proiect\magazin_online\produs.h
+	<fstream>
+	<string.h>
+
+1685974998 source:c:\users\admin\onedrive\desktop\poo proiect\magazin_online\producator.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"producator.h"
+	"produs.h"
+	<windows.h>
+	<iomanip>
+	<stdio.h>
+
+1685984973 source:c:\users\admin\onedrive\desktop\poo proiect\magazin_online\produs.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"produs.h"
+	"producator.h"
+	<windows.h>
+	<iomanip>
+	<stdio.h>
+
