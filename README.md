@@ -1,0 +1,2 @@
+# GESTIUNE_MAGAZIN
+Proiect P00
